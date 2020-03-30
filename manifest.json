@@ -1,6 +1,6 @@
 {
-"name" : "Anghami",
-"description" : "get links to Anghami",
+"name" : "Go to Anghami",
+"description" : "get link to Anghami",
 
 "version" : "1.2",
 "manifest_version": 2,
