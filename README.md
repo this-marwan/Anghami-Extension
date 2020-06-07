@@ -13,4 +13,3 @@ This is extension isn't published, so we need to load it as an unpacked chrome e
 Things to improve would be:
 + refining search even more (utilize artist name for instance), as it stands this script trys to clean video titles from irrelevant info but is not prefect (it removes phrases like "Official Music Video", "Audio", etc...).
 + valdiating the right song before suggesting it
-+ better interface than popup.html
